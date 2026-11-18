@@ -54,6 +54,7 @@ class TennisGame1:
                2: "Thirty",
                3: "Forty",
             }
+            
             result = (
                 f"{point_names[self.player1points]}-"
                 f"{point_names[self.player2points]}"
